@@ -1,0 +1,1 @@
+This Python script performs a permutation test to estimate the statistical significance of the difference between two randomly assigned groups. It simulates the test 1000 times and calculates the proportion of p-values below 0.05.
